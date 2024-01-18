@@ -56,7 +56,7 @@
 
 💡 **스프링에서의** **MVC** **알아보기** 
   
-→ [Spring MVC Framework](https://www.notion.so/Spring-MVC-Framework-27a032162e0e4512bf61c6020460c4d8?pvs=21)
+→ [Spring MVC Framework](https://github.com/kimjaelee/csStudy/blob/main/Web/Spring/SpringMVCFramework.md)
 
 
 <br>
