@@ -1,12 +1,16 @@
+# MVC 패턴
 > MVC란 Model, View, Controller의 약자이다. 하나의 어플리케이션, 프로젝트를 구성할 때 그 구성요소를 세가지의 역할로 구분한 패턴이다. 개발 프로세스에서 각각 구성요소에 대해 집중해서 개발할 수 있고, **재사용**성과 **확장성**이 용이하다. 단, 복잡해질수록 모델과 뷰의 관계가 복잡해진다.
 
-![MVC 패턴 구조](https://prod-files-secure.s3.us-west-2.amazonaws.com/15fbc157-5cac-43d9-8ee4-dc581d5a1e24/74b95e01-8297-4075-bf05-bdbacb914a2e/Untitled.png)
+<br>
+<br>
 
-MVC 패턴 구조
+![MVC 패턴 구조](../resources/MVC패턴.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/15fbc157-5cac-43d9-8ee4-dc581d5a1e24/b5fe4325-f556-410f-911c-7949e87c2bfd/Untitled.png)
+![MVC 패턴 구조](../resources/MVC패턴1.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/15fbc157-5cac-43d9-8ee4-dc581d5a1e24/e95e02cf-c90d-4b53-a18b-76291c21de99/Untitled.png)
+![MVC 패턴 구조](../resources/MVC패턴3.png)
+
+<br>
 
 ### Model
 
@@ -31,10 +35,14 @@ MVC 패턴 구조
 - 요청에 맞는 데이터를 Model에 의뢰 / 데이터를 View에 반영해서 사용자에게 알려줌
 - 모델이나 뷰에 대해서 알고 있어야 함
 
-m
+--- 
 
-<aside>
-💡 MVC 패턴의  사용 이유
+<br>
+<br>
+<br>
+
+
+💡 **MVC 패턴의  사용 이유**
 
 1. 하나의 역할만 담당 및 처리하므로 효율적이게 됨
 2. **유지보수성**, 애플리케이션의 **확장성**, **_유연성_** 증가
@@ -42,13 +50,17 @@ m
 
 \*_유연성: 클라이언트의 새로운 요구사항에 대해 최소한의 비용으로 보다 유연하게 대처할 수 있는 것_
 
-</aside>
 
-<aside>
-💡 **스프링에서의 MVC 알아보기** 
+
+<br>
+
+💡 **스프링에서의** **MVC** **알아보기** 
+  
 → [Spring MVC Framework](https://www.notion.so/Spring-MVC-Framework-27a032162e0e4512bf61c6020460c4d8?pvs=21)
 
-</aside>
+
+<br>
+<br>
 
 ### **REFERENCE**
 
