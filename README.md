@@ -11,7 +11,17 @@
 <br>
 
 ## 📌 컴퓨팅 언어 
-- 
+- ### JAVA
+  -  [Collection](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Collection.md)
+  -  [Stream](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Stream.md)
+  -  [Lambda](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Lambda.md)
+<br>
+
+## 📌 개발용어
+- [매직넘버](https://github.com/kimjaelee/csStudy/blob/main/Development%20Terms/%EB%A7%A4%EC%A7%81%EB%84%98%EB%B2%84.md)
+- [메소드체이닝](https://github.com/kimjaelee/csStudy/blob/main/Development%20Terms/%EB%A9%94%EC%86%8C%EB%93%9C%EC%B2%B4%EC%9D%B4%EB%8B%9D.md)
+- [파이프라인](https://github.com/kimjaelee/csStudy/blob/main/Development%20Terms/%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
+
 <br>
 
 ## 📌 웹 
@@ -19,6 +29,5 @@
 - [REST](https://github.com/kimjaelee/csStudy/blob/main/Web/REST.md)
 - [REST API](https://github.com/kimjaelee/csStudy/blob/main/Web/REST%20API.md)
 <br>
-
 - ### 스프링
   - [Spring MVC Framework](https://github.com/kimjaelee/csStudy/blob/main/Web/Spring/SpringMVCFramework.md)
