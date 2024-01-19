@@ -5,4 +5,4 @@
 
 💡 _프레임워크: 잘 정의된 구조의 클래스들_
 
-[컬렉션 프레임워크 구조](../../resources/collection.png)
+![컬렉션 프레임워크 구조](../../resources/collection.png)
