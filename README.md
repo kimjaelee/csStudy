@@ -15,6 +15,7 @@
   -  [Collection](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Collection.md)
   -  [Stream](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Stream.md)
   -  [Lambda](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Lambda.md)
+  -  [Generic](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Generic.md)
 <br>
 
 ## 📌 개발용어
