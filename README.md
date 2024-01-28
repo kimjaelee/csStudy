@@ -3,7 +3,17 @@
 <br>
 
 ## 📌 알고리즘
-- 
+- [BFS](https://github.com/kimjaelee/csStudy/blob/main/Algorithm/BFS.md)
+- [DFS](https://github.com/kimjaelee/csStudy/blob/main/Algorithm/DFS.md)
+- [이분탐색](https://github.com/kimjaelee/csStudy/blob/main/Algorithm/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.md)
+<br>
+
+## 📌 자료구조
+- [Queue](https://github.com/kimjaelee/csStudy/blob/main/DataStructure/Queue.md)
+- [Stack](https://github.com/kimjaelee/csStudy/blob/main/DataStructure/Stack.md)
+- [Hash](https://github.com/kimjaelee/csStudy/blob/main/DataStructure/Hash.md)
+- [Tree](https://github.com/kimjaelee/csStudy/blob/main/DataStructure/Tree.md)
+
 <br>
 
 ## 📌 디자인패턴
