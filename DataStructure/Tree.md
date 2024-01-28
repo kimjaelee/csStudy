@@ -5,7 +5,7 @@
 Node와 Edge로 이루어진 자료구조
 Tree의 특성을 이해하자
 
-![Tree](../resources/Tree1.png)
+![Tree](../resources/tree1.png)
 
 트리는 값을 가진 `노드(Node)`와 이 노드들을 연결해주는 `간선(Edge)`으로 이루어져있다.
 
@@ -15,7 +15,7 @@ Tree의 특성을 이해하자
 
 아래처럼 가족 관계도를 그릴 때 트리 형식으로 나타내는 경우도 많이 봤을 것이다. 자료구조의 트리도 이 방식을 그대로 구현한 것이다.
 
-![Tree](../resources/Tree2.png)
+![Tree](../resources/tree2.png)
 
 트리는 몇 가지 특징이 있다.
 
@@ -33,7 +33,7 @@ Tree의 특성을 이해하자
 
 트리를 순회하는 방식은 총 4가지가 있다. 위의 그림을 예시로 진행해보자
 
-![Tree](../resources/Tree3.png)
+![Tree](../resources/tree3.png)
 
 1. 전위 순회(pre-order)
 
