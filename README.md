@@ -23,6 +23,8 @@
 
 ## 📌 컴퓨팅 언어 
 - ### JAVA
+  -  [ClassAndObject] (https://github.com/kimjaelee/csStudy/blob/main/Language/Java/ClassAndObject.md)
+  -  [Inheritance] (https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Inheritance.md)
   -  [Collection](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Collection.md)
   -  [Stream](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Stream.md)
   -  [Lambda](https://github.com/kimjaelee/csStudy/blob/main/Language/Java/Lambda.md)
